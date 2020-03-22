@@ -7,4 +7,4 @@ def display_board
   puts "   |   |   "
 end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board([" ", " ", " ", " ", " ", " ", " ", " ", " "])
+display_board(board)
